@@ -1,0 +1,5 @@
+Вход по умолчанию:
+root : N29abc4@PeUJ!wQFKr3LY
+
+passman.py - программа Password Manager
+pmDB-test.py - тест классов для работы с БД SQLite
